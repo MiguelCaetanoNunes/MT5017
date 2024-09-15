@@ -1,0 +1,26 @@
+---
+title: "Project Part 1"
+author: "Miguel Caetano Nunes (19020215-XXXX)"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    fig_caption: yes
+---
+
+```{r}
+set.seed(020215) # Byt ÅÅMMDD mot ditt födelsedatum
+```
+
+# Sammanfattning
+I detta inledande stycke ska du förklara vad labben går ut på, utan att gå in
+på detaljer.
+
+
+# Uppgift 1
+Text. Använd underrubriker för delfrågor om du tycker det är motiverat.
+
+
+# Uppgift 2
+Mer text. Använd underrubriker för delfrågor om du tycker det är motiverat.
+
+Et cetera om det är fler än 2 uppgifter. Glöm inte att fylla i namn och personnummer överst samt ditt födelsedatum som slumpfrö (men ändra inte där det står "date: ...", och ta bort all min text under rubrikerna ovan och här!
